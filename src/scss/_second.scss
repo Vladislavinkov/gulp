@@ -1,0 +1,10 @@
+div {
+  .block {
+    &-img {
+		color: red;
+    }
+    &-txt {
+		color: blue;
+    }
+  }
+}

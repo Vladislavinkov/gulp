@@ -1,0 +1,8 @@
+.red {
+  color: #000;
+  &__item {
+    color: blue;
+  }
+}
+
+@import "second";
